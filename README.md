@@ -1,4 +1,4 @@
-# [USE THESE RULES FOR YOUR AI AGENT INCREASE PERFORMANCE]
+# USE THESE RULES FOR YOUR AI AGENT INCREASE PERFORMANCE
 
 Save this configuration file locally for your AI agent to maintain awareness of your project and technology stack (custom it, add it in your project, then share it with your ai agent)
 
