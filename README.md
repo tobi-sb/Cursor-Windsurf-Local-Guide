@@ -1,3 +1,7 @@
+# [USE THESE RULES FOR YOUR AI AGENT INCREASE PERFORMANCE]
+
+Save this configuration file locally for your AI agent to maintain awareness of your project and technology stack (custom it, add it in your project, then share it with your ai agent)
+
 # [Project Name]
 
 Every time you choose to apply a rule(s), explicitly state the rule(s) in the output. You can abbreviate the rule description to a single word or phrase.
